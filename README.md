@@ -12,6 +12,14 @@
 
 ###
 
+<p align="center">
+  <a href="https://derich.dev/projects/bel"><img src="./assets/polaroid-bel.svg" width="300" alt="Bel"></a>
+  <a href="https://derich.dev/projects/jobcheats"><img src="./assets/polaroid-jobcheats.svg" width="300" alt="JobCheats"></a>
+  <a href="https://derich.dev/projects/highfine"><img src="./assets/polaroid-highfine.svg" width="300" alt="Highfine"></a>
+</p>
+
+###
+
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/marlve/marlve/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
