@@ -1,1 +1,1 @@
-<p align="center"><a href="https://derich.dev/projects/bel"><img src="./assets/polaroid-bel.svg" width="300" alt="Bel"></a><a href="https://derich.dev/projects/jobcheats"><img src="./assets/polaroid-jobcheats.svg" width="300" alt="JobCheats"></a><a href="https://derich.dev/projects/highfine"><img src="./assets/polaroid-highfine.svg" width="300" alt="Highfine"></a></p>
+<p align="center"><a href="https://derich.dev"><img src="./assets/board.svg" width="100%" alt="Bel, JobCheats, Highfine"></a></p>
